@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\addmin\\Documents\\Unreal Projects\\CameraFramework\\Source\\CameraFramework\\CameraFramework.Build.cs",
+		"C:\\Users\\addmin\\Documents\\Unreal Projects\\CameraFramework\\Source\\CameraFramework.Target.cs",
+		"C:\\Users\\addmin\\Documents\\Unreal Projects\\CameraFramework\\Source\\CameraFrameworkEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

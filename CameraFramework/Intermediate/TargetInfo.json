@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CameraFramework",
+			"Path": "C:\\Users\\addmin\\Documents\\Unreal Projects\\CameraFramework\\Source\\CameraFramework.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CameraFrameworkEditor",
+			"Path": "C:\\Users\\addmin\\Documents\\Unreal Projects\\CameraFramework\\Source\\CameraFrameworkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

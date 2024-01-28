@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\inc\\cameraframework\\testactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\cameraframeworkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\development\\cameraframework\\definitions.cameraframework.h",
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\source\\cameraframework\\characters\\testactor.h",
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\inc\\cameraframework\\testactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\inc\\cameraframework\\test_actor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\cameraframeworkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\development\\cameraframework\\definitions.cameraframework.h",
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\source\\cameraframework\\characters\\test_actor.h",
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\inc\\cameraframework\\test_actor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

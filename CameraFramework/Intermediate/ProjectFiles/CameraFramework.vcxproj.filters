@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CameraFramework.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CameraFramework.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CameraFrameworkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\CameraFramework.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\CameraFramework">
+      <UniqueIdentifier>{5D200FF5-C104-37B5-AA3D-733B037D92A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CameraFramework\CameraFramework.Build.cs">
+      <Filter>Source\CameraFramework</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CameraFramework\CameraFramework.cpp">
+      <Filter>Source\CameraFramework</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CameraFramework\CameraFramework.h">
+      <Filter>Source\CameraFramework</Filter>
+    </ClInclude>
+    <Filter Include="Source\CameraFramework\Actors">
+      <UniqueIdentifier>{6F64D863-18CF-3B6D-9146-B1B35F088742}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CameraFramework\Actors\MyActor.cpp">
+      <Filter>Source\CameraFramework\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CameraFramework\Actors\MyActor.h">
+      <Filter>Source\CameraFramework\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\CameraFramework\Characters">
+      <UniqueIdentifier>{CE0E9A17-33AB-380D-BCF9-2077BD829C08}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CameraFramework\Characters\CF_Character.cpp">
+      <Filter>Source\CameraFramework\Characters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CameraFramework\Characters\CF_Character.h">
+      <Filter>Source\CameraFramework\Characters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CameraFramework\Characters\CF_ViewTargetActor.cpp">
+      <Filter>Source\CameraFramework\Characters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CameraFramework\Characters\CF_ViewTargetActor.h">
+      <Filter>Source\CameraFramework\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\CameraFramework\Characters\.idea">
+      <UniqueIdentifier>{38DAA95D-F178-3A0A-9F45-4796943915AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CameraFramework\Characters\.idea\.idea.Characters.dir">
+      <UniqueIdentifier>{AD22DDBB-127C-3D7D-8BF7-6D7E1D36F2BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea">
+      <UniqueIdentifier>{DC07D467-29D2-3E7F-BF4C-9D28C972D8C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea\contentModel.xml">
+      <Filter>Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea\encodings.xml">
+      <Filter>Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea\indexLayout.xml">
+      <Filter>Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea\modules.xml">
+      <Filter>Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea\projectSettingsUpdater.xml">
+      <Filter>Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea\riderModule.iml">
+      <Filter>Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea\workspace.xml">
+      <Filter>Source\CameraFramework\Characters\.idea\.idea.Characters.dir\.idea</Filter>
+    </None>
+  </ItemGroup>
+</Project>

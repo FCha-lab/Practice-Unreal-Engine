@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealgame\\inc\\cameraframework\\cf_character.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\cameraframework\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealgame\\development\\cameraframework\\definitions.cameraframework.h",
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\source\\cameraframework\\characters\\cf_character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\character.generated.h",
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealgame\\inc\\cameraframework\\cf_character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\inc\\cameraframework\\cameraframework.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\cameraframeworkeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\addmin\\documents\\unreal projects\\cameraframework\\intermediate\\build\\win64\\unrealeditor\\debuggame\\cameraframework\\definitions.cameraframework.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CameraFramework-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\CameraFrameworkEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\CF_ViewTargetActor.cpp.obj"
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\CF_Character.cpp.obj"
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\CameraFramework.cpp.obj"
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\CameraFramework.init.gen.cpp.obj"
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\CF_Character.gen.cpp.obj"
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\CF_ViewTargetActor.gen.cpp.obj"
+"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\Default.rc2.res"
+/OUT:"C:\Users\addmin\Documents\Unreal Projects\CameraFramework\Intermediate\Build\Win64\UnrealEditor\DebugGame\CameraFramework\UnrealEditor-CameraFramework-Win64-DebugGame.lib"
