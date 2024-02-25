@@ -76,3 +76,7 @@ DerivedDataCache/*
 *.log
 *.ini
 *.log
+MyCineema/Content/EF_Grounds/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
+StackOBot/Content/FirstGameInUE5_Source.zip
+StackOBot/Content/StackOBot/Environment/Rocks/SM_RockFlats_01.uasset
+StackOBot/Content/StackOBot/Environment/Rocks/SM_RockFlats_02.uasset
